@@ -64,7 +64,10 @@ A simple **Contact Book** application built with **React.js** and styled with **
   cd backend
 ```
 ```bash
-  npm install express cors body-parser
+  npm install express cors body-parser nodemon
+```
+```bash
+   npm run dev
 ```
 
 ## 🚀 Usage
