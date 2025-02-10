@@ -29,11 +29,13 @@ A simple **Contact Book** application built with **React.js** and styled with **
 ```bash
    git clone https://github.com/your-username/contact-book.git
 ```
+
 ```bash
   cd contact-book
 ```
 
 2️⃣ Frontend Setup
+
 ```bash
   cd frontend
 ```
