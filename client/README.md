@@ -36,6 +36,4 @@ cd contact-book
   npm start
 3️⃣ Backend Setup
   cd backend
-  npm install nodemon
   npm install express cors body-parser
-  node server.js
