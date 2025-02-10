@@ -1,7 +1,6 @@
-```md
 # 📖 Contact Book
 
-***A simple **Contact Book** application built with **React.js** and styled with **CSS**. This app allows users to **add, view, and delete contacts**.
+A simple **Contact Book** application built with **React.js** and styled with **CSS**. This app allows users to **add, view, and delete contacts**.
 
 ---
 
@@ -11,6 +10,15 @@
 - **View All Contacts** – Contacts are only displayed after clicking the **"View All Contacts"** button.
 - **Delete Contacts** – Users can remove contacts from the list.
 - **Responsive UI** – Styled using pure CSS for a clean and simple look.
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js** (Frontend)
+- **CSS** (Styling)
+- **Axios** (For API requests)
+- **Node.js & Express** (For backend, optional)
 
 ---
 
