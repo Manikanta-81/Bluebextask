@@ -25,6 +25,7 @@ A simple **Contact Book** application built with **React.js** and styled with **
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
+
 ```bash
   git clone https://github.com/your-username/contact-book.git
 ```
@@ -47,8 +48,12 @@ A simple **Contact Book** application built with **React.js** and styled with **
 ```
 
 3️⃣ Backend Setup
+```bash
   cd backend
+```
+```bash
   npm install express cors body-parser
+```
 
 ## 🚀 Usage
 
