@@ -1,7 +1,7 @@
 ```md
 # 📖 Contact Book
 
-A simple **Contact Book** application built with **React.js** and styled with **CSS**. This app allows users to **add, view, and delete contacts**.
+***A simple **Contact Book** application built with **React.js** and styled with **CSS**. This app allows users to **add, view, and delete contacts**.
 
 ---
 
@@ -27,7 +27,9 @@ A simple **Contact Book** application built with **React.js** and styled with **
 1️⃣ Clone the Repository
 
 ```bash
+
    git clone https://github.com/your-username/contact-book.git
+
 ```
 
 ```bash
