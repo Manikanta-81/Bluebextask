@@ -27,7 +27,7 @@ A simple **Contact Book** application built with **React.js** and styled with **
 1️⃣ Clone the Repository
 
 ```bash
-  git clone https://github.com/your-username/contact-book.git
+   git clone https://github.com/your-username/contact-book.git
 ```
 ```bash
   cd contact-book
